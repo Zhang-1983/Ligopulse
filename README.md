@@ -204,7 +204,7 @@ npm run format
 
 如有问题或建议，请通过以下方式联系：
 
-- 项目地址：https://github.com/Zhang-983/Lingopulse.git
+- 项目地址：https://github.com/Zhang-1983/Lingopulse.git
 - 邮箱：1175297551@qq.com
 
 ---
