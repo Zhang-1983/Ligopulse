@@ -1,0 +1,77 @@
+{
+  "timestamp": "2025-11-20T19:29:51.839866",
+  "request": {
+    "dialogue": "沈予: 我发现我对林知遥的态度可能过于消极，他躲着我可能是因为我对他太好了，让他感到压力。林知遥: 是的，我确实觉得有些困扰，我需要时间思考我们的关系。沈予: 我理解，我会给你更多空间的。林知遥: 谢谢你的理解。",
+    "scenario": "relationship"
+  },
+  "response": {
+    "id": "8ee0cf66-96ac-4eb8-9c78-ee33f45233f8",
+    "scenario": "relationship",
+    "overall_score": 0.63,
+    "peak_intensity": 0.74,
+    "avg_intensity": 0.73,
+    "stability_score": 0.72,
+    "momentum_score": 0.47,
+    "complexity_score": 0.5,
+    "patterns": [
+      {
+        "name": "积极互动模式",
+        "description": "对话中显示出良好的互动性和积极的沟通氛围",
+        "confidence": 0.94,
+        "pattern_type": "communication"
+      }
+    ],
+    "insights": [
+      "过度的善意若未被恰当接收，可能转化为关系中的压力源，引发对方回避行为",
+      "主动反思自身态度对关系的影响，是改善人际互动的关键转折点",
+      "给予对方思考空间的行为，展现了情感成熟度与对关系边界的尊重",
+      "双方坦诚表达困扰与理解，为关系调整提供了建设性对话基础",
+      "情感互动中压力感知的差异，常需要通过双向沟通才能达成共识"
+    ],
+    "recommendations": [
+      "沈予在与林知遥相处时，可进一步减少主动联系频率，给予其更充足的个人思考空间",
+      "沈予可尝试以更轻松、自然的方式与林知遥交流，避免给对方造成心理负担",
+      "沈予可以观察林知遥日常的兴趣爱好，在其思考关系期间，以朋友身份分享相关有趣内容，保持适度联系",
+      "林知遥思考关系期间，沈予可把注意力适当分散到自身事务上，提升自我，避免过度关注对方动态"
+    ],
+    "pulse_points": [
+      {
+        "timestamp": "2025-01-15T10:00:00Z",
+        "intensity": 0.78,
+        "sentiment": "positive",
+        "engagement": 0.1,
+        "clarity": 0.49,
+        "speaker_role": "participant_A"
+      },
+      {
+        "timestamp": "2025-01-15T10:30:00Z",
+        "intensity": 0.58,
+        "sentiment": "positive",
+        "engagement": 0.1,
+        "clarity": 0.49,
+        "speaker_role": "participant_B"
+      }
+    ],
+    "ai_analysis": {
+      "sentiment_score": 0.3,
+      "keywords": [
+        "林知遥",
+        "态度",
+        "消极",
+        "压力",
+        "困扰"
+      ],
+      "complexity_score": 0.5,
+      "enhancement_applied": true
+    },
+    "created_at": "2025-11-20T19:29:51.832537"
+  },
+  "quality_check": {
+    "insights_count": 5,
+    "recommendations_count": 4,
+    "insights_contain_ai": false,
+    "recommendations_contain_ai": false,
+    "avg_insight_length": 29.2,
+    "avg_recommendation_length": 39.75
+  }
+}

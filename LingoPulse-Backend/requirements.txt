@@ -1,0 +1,53 @@
+# LingoPulse Backend Dependencies
+# LingoPulse 后端依赖包
+
+# Web框架
+fastapi==0.121.2
+uvicorn[standard]==0.38.0
+
+# 数据验证和序列化
+pydantic==2.10.4
+pydantic-settings==2.7.0
+
+# 数据库
+sqlalchemy==2.0.44
+alembic==1.14.0
+asyncpg==0.30.0  # PostgreSQL异步驱动
+psycopg2-binary==2.9.9  # PostgreSQL同步驱动
+
+# 缓存
+redis==7.0.1
+
+# HTTP客户端
+httpx==0.28.1
+requests==2.32.3
+
+# LLM集成
+openai==1.57.0
+baidu-aip==4.16.13  # 百度AI SDK
+langchain==0.1.0
+langchain-openai==0.0.5
+
+# 实用工具
+python-multipart==0.0.9
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-dotenv==1.0.1
+
+# 日志和监控
+loguru==0.7.3
+
+# 开发工具
+pytest==8.3.4
+pytest-asyncio==0.24.0
+pytest-cov==4.1.0
+black==24.10.0
+flake8==7.1.1
+mypy==1.14.1
+
+# 数据处理
+numpy>=1.24.0,<2.0.0
+pandas==2.2.3
+
+# 时间处理
+python-dateutil==2.9.0.post0
